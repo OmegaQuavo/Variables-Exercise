@@ -4,23 +4,24 @@
     {
         static void Main(string[] args)
         {
-            string Myname = "Caleb";
+            string myname = "Caleb";
             int age = 23;
             char gender = 'M';
-            if (good) 
+            bool isFeelingGood = true;  
+            if (isFeelingGood) 
             {
-                Console.WriteLine("good");
+                Console.WriteLine("doing fine");
             }
             else
             {
-                Console.WriteLine("bad");
+                Console.WriteLine("doing bad");
             }
             
-                double daystobday = 45;
-                decimal temp = new decimal(98.00);
+                double daystobday = 44;
+                decimal temp = 98.00m;
 
-                Console.WriteLine($"My name is {Myname} and i am {age}. My sex is {gender} and i am " +
-                                  $"currently {good}. There are {daystobday} days till my birthday." +
+                Console.WriteLine($"My name is {myname} and i am {age}. My sex is {gender} and i am " +
+                                  $"currently {(isFeelingGood ? "doing fine" : "doing bad")}. There are {daystobday} days till my birthday." +
                                   $" And it was {temp} degrees fahrenheit outside today.");
             }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cedin\\Desktop\\repos\\VariablesExercise\\VariablesExercise.csproj": {}
+    "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Variables\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cedin\\Desktop\\repos\\VariablesExercise\\VariablesExercise.csproj": {
+    "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Variables\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cedin\\Desktop\\repos\\VariablesExercise\\VariablesExercise.csproj",
+        "projectUniqueName": "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Variables\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
         "projectName": "VariablesExercise",
-        "projectPath": "C:\\Users\\cedin\\Desktop\\repos\\VariablesExercise\\VariablesExercise.csproj",
+        "projectPath": "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Variables\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
         "packagesPath": "C:\\Users\\cedin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cedin\\Desktop\\repos\\VariablesExercise\\obj\\",
+        "outputPath": "C:\\Users\\cedin\\OneDrive\\Desktop\\repos\\Variables\\Variables-Exercise\\VariablesExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cedin\\AppData\\Roaming\\NuGet\\NuGet.Config"
